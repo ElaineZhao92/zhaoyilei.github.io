@@ -36,7 +36,7 @@ My research primarily focuses on Fintech (AI4Finance). I have worked on applying
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/FinWorld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment
@@ -62,7 +62,7 @@ arXiv, 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/EarnMore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Reinforcement learning with maskable stock representation for portfolio management in customizable stock pools
@@ -75,12 +75,12 @@ Proceedings of the ACM Web Conference (**WWW**), 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/LLM-EQR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Fine-tuning large language model based explainable recommendation with explainable quality reward
 
-Mengyuan Yang, Mengying Zhu, Yan Wang, Linxun Chen, **Yilei Zhao**, Xiuyuan Wang, Bing Han, Xiaolin Zheng, Jianwei Yin
+Mengyuan Yang, Mengying Zhu, Yan Wang, Linxun Chen, **Yilei Zhao**, Xiuyuan Wang, Bing Han, Xiaolin Zheng, Jianwei Yin <br />
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024
 
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28777)
