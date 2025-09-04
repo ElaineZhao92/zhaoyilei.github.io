@@ -19,12 +19,20 @@ redirect_from:
 
 Hi! I’m Yilei Zhao (Elaine), currently a PhD student at Nanyang Technological University, where I am fortunate to be advised by <a href='https://scholar.google.com/citations?user=K2CHjf0AAAAJ&hl=zh-CN&oi=ao'>Wei Yang Bryan Lim</a>. Prior to joining NTU, I completed my bachelor’s degree at Zhejiang University, where I had a wonderful academic journey that sparked my interest in research.
 
-My research primarily focuses on Fintech (AI4Finance). I have worked on applying deep learning models to tackle financial tasks, including portfolio management and algorithmic trading. Currently, my interests extend to foundation models, particularly in making them trustworthy for real-world applications. I am especially interested in topics such as uncertainty quantification, robustness, and ensuring that these large-scale models can be deployed reliably in high-stakes decision-making environments.
+My research primarily focuses on Fintech (AI4Finance). I have worked on applying deep learning models to tackle financial tasks, including portfolio management and algorithmic trading. Currently, my interests extend to foundation models, particularly in making them trustworthy for real-world applications. I am especially interested in topics such as uncertainty quantification, explainability, and ensuring that these large-scale models can be deployed reliably in high-stakes decision-making environments.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations & Experience
+- *2025.08 - Present*, Nanyang Technological University, Singapore. PhD Student, College of Computing and Data Science.
+- *2024.09 - 2025.08*, Nanyang Technological University, Singapore. Research Engineer, Alibaba-NTU Corp Lab.
+- *2024.08 - 2024.09*, Alipay (Hangzhou) Information Technology Co., Ltd., China. Algorithm Intern.
+- *2020.09 - 2024.07*, Zhejiang University, China. B.Eng. in Software Engineering.  
+
+[//]: # (# 🔥 News)
+
+[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
 
@@ -42,17 +50,21 @@ My research primarily focuses on Fintech (AI4Finance). I have worked on applying
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
+
+# 💬 Academic Services
+- *Conference Reviewer*
+  - AAAI 2026 
+  - KDD 2025
+  - WISE 2024, 2025
+
+[//]: # (# 💻 Internships)
+
+[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06*, Outstanding Graduates of Zhejiang University
+- *2024.06*, Outstanding Thesis of Zhejiang University
+- *2023.10* Zhejiang University Second-Class Scholarship(Top 8%)
+- *2021.10* Zhejiang Provincial Government Scholarship(Top 3%).
+- *2021.10* Zhejiang University Second-Class Scholarship(Top 8%)

@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yilei Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
+  bio              : "Elaine | AI4Finance | Uncertainty Quantification"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/271/2943-1.html"
-  orcid            : "https://orcid.org/0009-0009-4226-1456"
+  dblp             : # "https://dblp.org/pid/271/2943-1.html"
+  orcid            : # "https://orcid.org/0009-0009-4226-1456"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
