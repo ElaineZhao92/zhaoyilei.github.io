@@ -104,14 +104,8 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    // color: black;
+    background-color: #4a6db3;
+    // background-color: #f3d849;
     font-size: .8em;
-}
-a {
-  color: #2a7ae2;
-  text-decoration: none;   /* 默认不显示下划线 */
-}
-
-a:hover {
-  text-decoration: underline;  /* 悬停时才出现 */
 }

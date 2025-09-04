@@ -78,10 +78,7 @@ a:focus {
 
 /* Remove outline from links */
 
-a:hover{
-  text-decoration: underline;
-}
-
+a:hover,
 a:active {
   outline: 0;
 }
