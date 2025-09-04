@@ -48,7 +48,6 @@ arXiv, 2025
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,7 +59,6 @@ arXiv, 2024
 [Paper](https://arxiv.org/pdf/2412.09468) | [Code](https://anonymous.4open.science/r/Storm-2823)
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/EarnMore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,7 +72,6 @@ Proceedings of the ACM Web Conference (**WWW**), 2024
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/LLM-EQR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,7 +83,6 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28777)
 </div>
 </div>
-
 
 
 
