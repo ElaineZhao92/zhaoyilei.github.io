@@ -79,6 +79,7 @@
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
+            margin-right: 10px;
             order: 2;
         }
 
@@ -106,4 +107,12 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+a {
+  color: #2a7ae2;
+  text-decoration: none;   /* 默认不显示下划线 */
+}
+
+a:hover {
+  text-decoration: underline;  /* 悬停时才出现 */
 }

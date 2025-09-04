@@ -40,13 +40,13 @@ My research primarily focuses on Fintech (AI4Finance). I have worked on applying
 <div class="paper-box-text" markdown="1">
 
 
-### **[Deep Residual Learning for Image Recognition]**(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+### STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading
 
-**Yilei Zhao**, aaa, bbb, ccc
+**Yilei Zhao**, Wentao Zhang, Tingran Yang, Yong Jiang, Fei Huang, Wei Yang Bryan Lim
 
-IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
+arXiv, 2024
 
-[arXiv](https://arxiv.org/) | [Code](https://github.com/)
+[arXiv](https://arxiv.org/pdf/2412.09468) | [Code](https://anonymous.4open.science/r/Storm-2823)
 
 </div>
 </div>
