@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yilei Zhao"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Elaine | AI4Finance | Uncertainty Quantification"
+  avatar           : "images/avatar-512x512.png"
+  bio              : "AI4Finance | Uncertainty Quantification"
   location         : "Singapore"
   employer         :
   pubmed           : 

@@ -22,7 +22,7 @@ Hi! I’m Yilei Zhao (Elaine), currently a PhD student at Nanyang Technological 
 My research primarily focuses on Fintech (AI4Finance). I have worked on applying deep learning models to tackle financial tasks, including portfolio management and algorithmic trading. Currently, my interests extend to foundation models, particularly in making them trustworthy for real-world applications. I am especially interested in topics such as uncertainty quantification, explainability, and ensuring that these large-scale models can be deployed reliably in high-stakes decision-making environments.
 
 
-# 📖 Educations & Experience
+# 📖 Educations and Experience
 - *2025.08 - Present*, Nanyang Technological University, Singapore. PhD Student, College of Computing and Data Science.
 - *2024.09 - 2025.08*, Nanyang Technological University, Singapore. Research Engineer, Alibaba-NTU Corp Lab.
 - *2024.08 - 2024.09*, Alipay (Hangzhou) Information Technology Co., Ltd., China. Algorithm Intern.
@@ -36,19 +36,33 @@ My research primarily focuses on Fintech (AI4Finance). I have worked on applying
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+    <h3>Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis</h3>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+    <p><strong>Yilei Zhao</strong>, aaa, bbb, ccc</p>
+    <p><em>IEEE/CVF International Conference on Computer Vision (ICCV), 2025</em></p>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+    [arXiv](https://arxiv.org/) | [Code](https://github.com/) | [Project Page](https://project-page.com)
+  </div>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+
+[//]: # ()
+[//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
+
+[//]: # ()
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+
+[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (</div>)
+
+[//]: # (</div>)
 
 
 
