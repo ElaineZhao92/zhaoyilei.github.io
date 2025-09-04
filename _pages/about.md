@@ -39,14 +39,13 @@ My research primarily focuses on Fintech (AI4Finance). I have worked on applying
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
+**STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading**
 
-### STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading
-
-**Yilei Zhao**, Wentao Zhang, Tingran Yang, Yong Jiang, Fei Huang, Wei Yang Bryan Lim
+**Yilei Zhao**<sup>*</sup>, Wentao Zhang<sup>*</sup>, Tingran Yang, Yong Jiang, Fei Huang, Wei Yang Bryan Lim
 
 arXiv, 2024
 
-[arXiv](https://arxiv.org/pdf/2412.09468) | [Code](https://anonymous.4open.science/r/Storm-2823)
+[arXiv](https://arxiv.org/pdf/2412.09468)|[Code](https://anonymous.4open.science/r/Storm-2823)
 
 </div>
 </div>
