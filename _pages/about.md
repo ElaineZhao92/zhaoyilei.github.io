@@ -36,36 +36,54 @@ My research primarily focuses on Fintech (AI4Finance). I have worked on applying
 
 # 📝 Publications 
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[//]: # (<div class="paper-box-text" markdown="1">)
+## FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment
 
-[//]: # ()
-[//]: # (**STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading**)
+Wentao Zhang, **Yilei Zhao**, Chuqiao Zong, Xinrun Wang, Bo An <br />
+arXiv, 2025
 
-[//]: # ()
-[//]: # (**Yilei Zhao**<sup>*</sup>, Wentao Zhang<sup>*</sup>, Tingran Yang, Yong Jiang, Fei Huang, Wei Yang Bryan Lim)
+[Paper](https://arxiv.org/pdf/2508.02292) | [Code](https://github.com/DVampire/FinWorld) | [Website](https://dvampire.github.io/FinWorld/)
+</div>
+</div>
 
-[//]: # ()
-[//]: # (arXiv, 2024)
-
-[//]: # ()
-[//]: # ([arXiv]&#40;https://arxiv.org/pdf/2412.09468&#41;|[Code]&#40;https://anonymous.4open.science/r/Storm-2823&#41;)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (</div>)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis
+## STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading
 
-**Xinyu Hou**, Zongsheng Yue, Xiaoming Li, Chen Change Loy <br />
-IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
+**Yilei Zhao**<sup>*</sup>, Wentao Zhang<sup>*</sup>, Tingran Yang, Yong Jiang, Fei Huang, Wei Yang Bryan Lim <br />
+arXiv, 2024
 
-[arXiv](https://arxiv.org/abs/2411.17769) | [Code](https://github.com/itsmag11/Omegance) | [Project Page](https://itsmag11.github.io/Omegance/)
+[Paper](https://arxiv.org/pdf/2412.09468) | [Code](https://anonymous.4open.science/r/Storm-2823)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Reinforcement learning with maskable stock representation for portfolio management in customizable stock pools
+
+Wentao Zhang, **Yilei Zhao**, Shuo Sun, Jie Ying, Yonggang Xie, Zitao Song, Xinrun Wang, Bo An <br />
+Proceedings of the ACM Web Conference (**WWW**), 2024
+
+[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645615) | [Code](https://github.com/DVampire/EarnMore)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/STORM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Fine-tuning large language model based explainable recommendation with explainable quality reward
+
+Mengyuan Yang, Mengying Zhu, Yan Wang, Linxun Chen, **Yilei Zhao**, Xiuyuan Wang, Bing Han, Xiaolin Zheng, Jianwei Yin
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024
+
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28777)
 </div>
 </div>
 
